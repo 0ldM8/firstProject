@@ -1,3 +1,3 @@
 # firstProject
 First Project Repositety
-This projec tis designed as a tutorial purpose
+\nThis project is designed as a tutorial purpose
